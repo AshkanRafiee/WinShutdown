@@ -3,7 +3,7 @@ A Script to help you shutdown your windows at desired time without coding!
 ## Installation
 Simply Download The Script!
 ## Usage
-> Use "s" to enter yout shutdown time!
+> Use "s" to enter your shutdown time!
 >
 > Use "c" to cancel your shutdown queues!
 >
